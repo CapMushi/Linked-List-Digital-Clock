@@ -3,8 +3,8 @@ This project implements a class-based approach to display and manipulate a digit
 
 How to Run:
 1. Clone the Repository
-   git clone https://github.com/CapMushi/Linked-List-Digital.git
-   cd Linked-List-Digital
+   git clone https://github.com/CapMushi/Linked-List-Digital-Clock.git
+   cd Linked-List-Digital-Clock
 
 2. Compile the Code
    Use a C++ compiler to compile the code. For example, with g++:
